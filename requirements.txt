@@ -1,0 +1,52 @@
+## requirements.txt for multicamera_framework ##
+# Python 2.7+ environment built from Anaconda2-4.0.0
+# OpenCV 3+ is required with the following support (installed via apt-get):
+#   build-essential
+#   cmake
+#   ffmpeg
+#   gfortran
+#   git
+#   google-chrome-stable
+#   gstreamer
+#   hd5
+#   libatlas-base-dev
+#   libavcodec-dev
+#   libavformat-dev
+#   libdc1394-22
+#   libdc1394-22-dev
+#   libfaac-dev
+#   libgstreamer-plugins-base0.10-dev
+#   libgstreamer0.10-dev
+#   libgtk2.0-dev
+#   libjasper-dev
+#   libjpeg-dev
+#   libjpeg8-dev
+#   libmp3lame-dev
+#   libopencore-amrnb-dev
+#   libopencore-amrwb-dev
+#   libopencv-dev
+#   libpng12-dev
+#   libqt4-dev
+#   libswscale-dev
+#   libtbb-dev
+#   libtheora-dev
+#   libtiff5-dev
+#   libv4l-dev
+#   libvorbis-dev
+#   libxine2-dev
+#   libxvidcore-dev
+#   opencv_contrib
+#   pkg-config
+#   python-dev
+#   python-numpy
+Pillow >= 3.1.1
+imutils >= 0.3.6
+Keras == 1.0.4
+matplotlib >= 1.5.1
+numpy == 1.11.1
+scypi >= 0.17.1
+six == 1.10.0
+Theano == 0.8.2
+
+# Tensorflow from the following:
+https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow-0.9.0rc0-cp27-none-linux_x86_64.whl
